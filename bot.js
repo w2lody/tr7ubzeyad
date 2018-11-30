@@ -1,4 +1,4 @@
-```const Discord = require('discord.js'),
+const Discord = require('discord.js'),
     bot = new Discord.Client({sisableEveryone: true})
     console.log("muuuuuuuuute,");
 bot.on('guildMemberAdd', member => {
@@ -9,4 +9,4 @@ setTimeout(() => mohamed.send(`**~#~~Welcome~~ To, Urgent.💝 🍃**`), 4000)
 }
 });
 
-bot.login("");// لا تغير فيها شيء```
+bot.login("");// لا تغير فيها شيء
