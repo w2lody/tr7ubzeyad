@@ -5,7 +5,7 @@ bot.on('guildMemberAdd', member => {
 const mohamed= member.guild.channels.get("517790611776995330");
 if(!mohamed) return;
 if(mohamed) {
-setTimeout(() => mohamed.send(`**Welcome, To Venom , Network . **`), 4000)        
+setTimeout(() => mohamed.send(`**~#~~Welcome~~ To, Urgent.💝 🍃**`), 4000)        
 }
 });
 
